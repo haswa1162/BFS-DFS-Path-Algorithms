@@ -24,3 +24,7 @@ Each algorithm prints:
 I also included a screenshot of the output as required.
 
 This task was mainly about modifying BFS and DFS to show paths, and then uploading the code and the screenshot to GitHub.
+
+
+
+<img width="1918" height="580" alt="Screenshot 2025-11-14 130640" src="https://github.com/user-attachments/assets/20ed727f-8bcd-4fdd-9c5f-8c9aea362f5d" />
